@@ -3,3 +3,8 @@
 
 
 docker run -v `pwd`/html:/var/www/html/content-sample -v `pwd`/images.conf:/etc/httpd/conf.d/images.conf -v `pwd`/images:/var/www/img -p 6789:80 techyugadi/picocms
+
+
+## Syntax ref
+
+https://daringfireball.net/projects/markdown/syntax
