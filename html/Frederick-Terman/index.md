@@ -9,4 +9,5 @@
 
 
 # 参考
-[维基百科](https://zh.wikipedia.org/wiki/弗雷德里克·特曼 "维基百科")
+* [维基百科中文](https://zh.wikipedia.org/wiki/弗雷德里克·特曼 "维基百科")
+* [维基百科英文](https://en.wikipedia.org/wiki/Frederick_Terman "Wikipedia")
